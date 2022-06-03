@@ -1,2 +1,2 @@
-# machine-learning-basic-model-gender-voice-prediction-
-This model worked based on various voice frequency and predict the gender of the given voice model
+# machine-learning-basic
+This file contain basic of my machine learning coding
